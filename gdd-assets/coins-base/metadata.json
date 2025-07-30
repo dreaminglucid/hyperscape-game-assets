@@ -1,0 +1,23 @@
+{
+  "name": "coins-base",
+  "gameId": "coins-base",
+  "type": "resource",
+  "subtype": "currency",
+  "description": "Basic coin with clean geometry, neutral design, low-poly RuneScape 2007 style",
+  "detailedPrompt": "Shape: The base model is a simple, flat disk shape with a slight bulge in the center, making it look more three-dimensional. The diameter is about twice the thickness, creating a chunky, robust appearance. The edges of the coin are slightly rounded to remove sharpness. \n\nDetails: A thin, slightly elevated circular band runs along the outer edge of the coin, providing a subtle frame. Inside this band, on both faces of the coin, there is a simple, low-polygon raised design – an iconic, stylized RuneScape symbol (e.g., a dragon head, a cross, a simple star). The design is symmetrical and clear enough to be easily recognizable even at a small scale.\n\nColor: The entire model is a neutral, flat gray color, without any specific material textures or effects. No gradients or shading is used, keeping the look simple and plain for easy retexturing.\n\nSurface: The surface of the coin is smooth and flat, without any scratches, dents, or other signs of wear and tear. \n\nStyle: The model adheres to the iconic, low-poly style of 2007 Old School RuneScape. It's simple, uncluttered, and easily identifiable.",
+  "generatedAt": "2025-07-20T03:01:19.921Z",
+  "completedAt": "2025-07-20T03:01:19.921Z",
+  "isBaseModel": true,
+  "materialVariants": [
+    "standard"
+  ],
+  "isPlaceholder": false,
+  "hasModel": true,
+  "hasConceptArt": true,
+  "modelPath": "/home/beast/hyperscape/packages/generation/gdd-assets/coins-base/coins-base.glb",
+  "conceptArtUrl": "./concept-art.png",
+  "gddCompliant": true,
+  "workflow": "GPT-4 → GPT-Image-1 → Meshy Image-to-3D (Base Model)",
+  "meshyTaskId": "019825c3-ed4f-7c29-9c0d-f00426697e14",
+  "meshyStatus": "completed"
+}

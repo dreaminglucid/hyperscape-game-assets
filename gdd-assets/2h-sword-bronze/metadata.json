@@ -1,0 +1,31 @@
+{
+  "id": "2h-sword-bronze",
+  "gameId": "2h-sword-bronze",
+  "name": "2h-sword-bronze",
+  "type": "weapon",
+  "subtype": "weapon",
+  "isBaseModel": false,
+  "isVariant": true,
+  "parentBaseModel": "2h-sword",
+  "materialPreset": {
+    "id": "bronze",
+    "displayName": "Bronze",
+    "category": "metal",
+    "tier": 1,
+    "color": "#CD7F32",
+    "stylePrompt": "bronze metal texture with dull brown-orange color, low-poly RuneScape style"
+  },
+  "workflow": "Meshy AI Retexture",
+  "baseModelTaskId": "01982ea7-41d3-7409-a1aa-13b5901f71bb",
+  "retextureTaskId": "01982ea9-0427-740b-9b86-d6d7f6c3d24f",
+  "retextureStatus": "completed",
+  "modelPath": "2h-sword-bronze.glb",
+  "conceptArtPath": null,
+  "hasModel": true,
+  "hasConceptArt": true,
+  "generatedAt": "2025-07-21T20:25:39.610Z",
+  "completedAt": "2025-07-21T20:25:39.610Z",
+  "description": "2h sword",
+  "isPlaceholder": false,
+  "gddCompliant": true
+}

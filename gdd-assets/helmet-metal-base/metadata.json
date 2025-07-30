@@ -1,0 +1,25 @@
+{
+  "name": "helmet-metal-base",
+  "gameId": "helmet-metal-base",
+  "type": "armor",
+  "subtype": "helmet",
+  "description": "Basic metal helmet with clean geometry, neutral design, low-poly RuneScape 2007 style",
+  "detailedPrompt": "Model: Basic Metal Helmet\n\n1. Shape and Geometry: The helmet is designed in a simple, rounded dome shape to cover the top and sides of the head. The silhouette is iconic and easily recognizable as a helmet, with a low poly count that gives it a blocky, geometric look. \n\n2. Face Opening: The helmet features a rectangular face opening, extending from just above the eyebrow level to the base of the chin, and reaching the width of the face on either side. The opening is defined by clean, sharp lines.\n\n3. Visor: Above the face opening, the helmet features a small, flat visor that protrudes forward slightly. The visor is a simple rectangular shape, adding to the geometric aesthetic of the model.\n\n4. Neck Guard: At the base of the helmet, extending from the back to the sides, a semi-circular neck guard is present. It has a slightly curved, smooth surface, wrapping protectively around the back of the neck.\n\n5. Color and Texture: The base model is rendered in a neutral, matte gray color, with no specific material textures. This makes it suitable for applying different material textures later.\n\n6. Details: The helmet's design is minimalistic, without any intricate details or patterns. This aids in maintaining the clean geometry and clear shapes of the model, making it easy to retexture. \n\n7. Size: The helmet is designed to fit the average head size in the RuneScape 2007 universe.",
+  "generatedAt": "2025-07-20T02:25:10.123Z",
+  "completedAt": "2025-07-20T02:25:10.123Z",
+  "isBaseModel": true,
+  "materialVariants": [
+    "bronze",
+    "steel",
+    "mithril"
+  ],
+  "isPlaceholder": false,
+  "hasModel": true,
+  "hasConceptArt": true,
+  "modelPath": "/home/beast/hyperscape/packages/generation/gdd-assets/helmet-metal-base/helmet-metal-base.glb",
+  "conceptArtUrl": "./concept-art.png",
+  "gddCompliant": true,
+  "workflow": "GPT-4 → GPT-Image-1 → Meshy Image-to-3D (Base Model)",
+  "meshyTaskId": "019825a3-4e03-7c20-8c31-c218c85e1af0",
+  "meshyStatus": "completed"
+}

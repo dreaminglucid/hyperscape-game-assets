@@ -1,0 +1,31 @@
+{
+  "id": "chisel-bronze",
+  "gameId": "chisel-bronze",
+  "name": "chisel-bronze",
+  "type": "weapon",
+  "subtype": "weapon",
+  "isBaseModel": false,
+  "isVariant": true,
+  "parentBaseModel": "chisel",
+  "materialPreset": {
+    "id": "bronze",
+    "displayName": "Bronze",
+    "category": "metal",
+    "tier": 1,
+    "color": "#CD7F32",
+    "stylePrompt": "bronze metal texture, copper brown color, slightly dull metallic finish, RuneScape 2007 style"
+  },
+  "workflow": "Meshy AI Retexture",
+  "baseModelTaskId": "019854d6-1d7d-7ce3-b820-7ba3f6366a25",
+  "retextureTaskId": "019854d9-6dbf-7ce8-9cab-7ccfe33d98b5",
+  "retextureStatus": "completed",
+  "modelPath": "chisel-bronze.glb",
+  "conceptArtPath": null,
+  "hasModel": true,
+  "hasConceptArt": true,
+  "generatedAt": "2025-07-29T06:24:29.462Z",
+  "completedAt": "2025-07-29T06:24:29.462Z",
+  "description": "A RuneScape 2 inspired chisel",
+  "isPlaceholder": false,
+  "gddCompliant": true
+}

@@ -1,0 +1,26 @@
+{
+  "name": "tinderbox-standard",
+  "gameId": "tinderbox-standard",
+  "type": "tool",
+  "subtype": "tinderbox",
+  "description": "Basic tinderbox with clean geometry, neutral design, low-poly RuneScape 2007 style",
+  "detailedPrompt": "Model Description:\n\nThe tinderbox model is a small, handheld item with a rectangular body and a hinged lid. \n\n- The main body of the tinderbox is a simple rectangular cuboid, with dimensions leaning towards being slightly longer than it is wide or tall. The corners and edges are slightly rounded to give the box a worn, used appearance. \n\n- The hinged lid is a smaller, thinner rectangle that fits the top of the box. It is connected to the body of the box with two small, cylindrical hinges positioned on one of the longer sides of the box.\n\n- On the opposite side of the hinges, there's a small latch, represented by a tiny rectangular protrusion on the lid that aligns with a corresponding slot on the body of the box.\n\n- The model is entirely in neutral gray color, suitable for retexturing.\n\n- The model's surfaces are smooth without any texturing, but the geometry includes subtle indents and raises to suggest the presence of the lid, hinges, and latch.\n\n- The model is stylized according to the Old School RuneScape 2007 aesthetics: it has a low poly count, simple shapes, and an identifiable silhouette. \n\n- There are no intricate details or designs on the box, keeping it neutral and ready for retexturing with different materials.",
+  "generatedAt": "2025-07-20T04:17:02.582Z",
+  "completedAt": "2025-07-20T04:17:02.582Z",
+  "isBaseModel": false,
+  "materialVariants": [
+    "standard"
+  ],
+  "isPlaceholder": false,
+  "hasModel": true,
+  "hasConceptArt": true,
+  "modelPath": "/home/beast/hyperscape/packages/generation/gdd-assets/tinderbox-standard/tinderbox-standard.glb",
+  "conceptArtUrl": "./concept-art.png",
+  "gddCompliant": true,
+  "workflow": "Base Model Copy (Standard Variant)",
+  "meshyTaskId": "019825bf-a270-7b5e-9520-6b713e3a9a0c",
+  "meshyStatus": "completed",
+  "isVariant": true,
+  "baseMaterial": "standard",
+  "parentBaseModel": "tinderbox-base"
+}

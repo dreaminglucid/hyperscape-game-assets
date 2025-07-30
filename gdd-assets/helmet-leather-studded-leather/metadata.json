@@ -1,0 +1,32 @@
+{
+  "name": "helmet-leather-studded-leather",
+  "gameId": "helmet-leather-studded-leather",
+  "type": "armor",
+  "subtype": "helmet",
+  "description": "Basic leather helmet with clean geometry, neutral design, low-poly RuneScape 2007 style",
+  "detailedPrompt": "Model Name: Basic Leather Helmet\n\nThe Basic Leather Helmet model has a low-poly, simple geometric design that perfectly fits the classic RuneScape 2007 style. It is designed in neutral, muted tones of grey and white, devoid of any material-specific textures, for easy retexturing later.\n\nStarting from the top, the helmet has a slightly rounded, dome-shaped crown, creating a clear and iconic silhouette. The crown smoothly transitions into the sides, covering the entirety of the head, leaving only the face visible.\n\nThe front of the helmet features a simple, rectangular cut-out for the face, starting just above the eyebrows and ending midway down the cheeks. The cut-out is broad enough to allow a clear view of the surroundings, while the sides of the helmet extend slightly forward to offer protection without obstructing peripheral vision.\n\nAt the back, the helmet extends down to the base of the skull, with a slight curve inward at the bottom. This protects the back of the head and neck while allowing for a comfortable range of movement.\n\nThe model has clean lines and simple, unadorned surfaces, making it ideal for retexturing with various materials. The geometry is clean, consistent, and free of unnecessary details to maintain the iconic look of old-school RuneScape items.",
+  "generatedAt": "2025-07-20T03:55:22.084Z",
+  "completedAt": "2025-07-20T03:55:22.084Z",
+  "isBaseModel": false,
+  "materialVariants": [
+    "leather",
+    "hard-leather",
+    "studded-leather"
+  ],
+  "isPlaceholder": false,
+  "hasModel": true,
+  "hasConceptArt": true,
+  "modelPath": "/home/beast/hyperscape/packages/generation/gdd-assets/helmet-leather-studded-leather/helmet-leather-studded-leather.glb",
+  "conceptArtUrl": "./concept-art.png",
+  "gddCompliant": true,
+  "workflow": "GPT-4 → GPT-Image-1 → Meshy Image-to-3D → Meshy Retexture API",
+  "meshyTaskId": "019825a6-bdc5-7c21-b26c-6d57a4789ff9",
+  "meshyStatus": "completed",
+  "isVariant": true,
+  "baseMaterial": "studded-leather",
+  "parentBaseModel": "helmet-leather-base",
+  "materialStylePrompt": "studded leather texture, brown leather with metal studs, reinforced leather finish, RuneScape 2007 style",
+  "baseModelTaskId": "019825a6-bdc5-7c21-b26c-6d57a4789ff9",
+  "retextureTaskId": "019825f7-956f-7c64-b673-606486c20c08",
+  "retextureStatus": "completed"
+}

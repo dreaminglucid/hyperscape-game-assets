@@ -1,0 +1,31 @@
+{
+  "id": "crossbow-bronze",
+  "gameId": "crossbow-bronze",
+  "name": "crossbow-bronze",
+  "type": "weapon",
+  "subtype": "weapon",
+  "isBaseModel": false,
+  "isVariant": true,
+  "parentBaseModel": "crossbow",
+  "materialPreset": {
+    "id": "bronze",
+    "displayName": "Bronze",
+    "category": "metal",
+    "tier": 1,
+    "color": "#CD7F32",
+    "stylePrompt": "bronze metal texture with dull brown-orange color, weathered patina, slight tarnish, low-poly RuneScape style"
+  },
+  "workflow": "Meshy AI Retexture",
+  "baseModelTaskId": "01982f1e-f9f1-7468-a61c-462e6486c3ed",
+  "retextureTaskId": "01982f20-cc5b-75e5-afea-d26708c1f67e",
+  "retextureStatus": "completed",
+  "modelPath": "crossbow-bronze.glb",
+  "conceptArtPath": null,
+  "hasModel": true,
+  "hasConceptArt": true,
+  "generatedAt": "2025-07-21T22:36:33.505Z",
+  "completedAt": "2025-07-21T22:36:33.505Z",
+  "description": "Crossbow",
+  "isPlaceholder": false,
+  "gddCompliant": true
+}

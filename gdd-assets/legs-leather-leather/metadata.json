@@ -1,0 +1,32 @@
+{
+  "name": "legs-leather-leather",
+  "gameId": "legs-leather-leather",
+  "type": "armor",
+  "subtype": "legs",
+  "description": "Basic leather leg armor with clean geometry, neutral design, low-poly RuneScape 2007 style",
+  "detailedPrompt": "Model: Basic Leather Leg Armor\n\nShape: \nThe armor consists of two separate pieces designed to cover each leg. Each piece is rectangular, tapering slightly towards the bottom to accommodate the shape of the leg. The top of each piece flares out slightly to accommodate the thigh. The overall shape closely follows the form of a human leg, ensuring a snug fit when worn.\n\nGeometry:\nThe armor pieces are low-poly, consisting of simple shapes with clear and clean lines. Each piece is composed of a front and back panel, joined at the sides with small, rectangular strips representing stitching or fastenings. The geometry of these stitching strips is simple, straight, and untextured. \n\nDesign Details:\nAt the knee, each armor piece has a slightly raised, rounded shape to allow for knee movement. This is represented by a simple, curved line on the model. The bottom of each piece ends just above the ankle, with the geometry slightly curving inward to represent the narrowing of the leg at this point.\n\nColor:\nThe base model is presented in a neutral light gray color, devoid of any specific material textures. It is ready for retexturing with different materials later.\n\nStyle:\nThe model aligns with Old School RuneScape 2007 aesthetics. It has a low poly count, simple shapes, and an iconic silhouette. Despite its simplicity, it is recognizable as leg armor.",
+  "generatedAt": "2025-07-20T04:01:36.915Z",
+  "completedAt": "2025-07-20T04:01:36.915Z",
+  "isBaseModel": false,
+  "materialVariants": [
+    "leather",
+    "hard-leather",
+    "studded-leather"
+  ],
+  "isPlaceholder": false,
+  "hasModel": true,
+  "hasConceptArt": true,
+  "modelPath": "/home/beast/hyperscape/packages/generation/gdd-assets/legs-leather-leather/legs-leather-leather.glb",
+  "conceptArtUrl": "./concept-art.png",
+  "gddCompliant": true,
+  "workflow": "GPT-4 → GPT-Image-1 → Meshy Image-to-3D → Meshy Retexture API",
+  "meshyTaskId": "019825b4-bc4d-7c26-978a-847d3617fd49",
+  "meshyStatus": "completed",
+  "isVariant": true,
+  "baseMaterial": "leather",
+  "parentBaseModel": "legs-leather-base",
+  "materialStylePrompt": "brown leather texture, natural cowhide, worn leather finish, RuneScape 2007 style",
+  "baseModelTaskId": "019825b4-bc4d-7c26-978a-847d3617fd49",
+  "retextureTaskId": "019825fd-4bab-7c64-aa0a-85c6b84882c8",
+  "retextureStatus": "completed"
+}

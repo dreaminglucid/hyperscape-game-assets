@@ -1,0 +1,14 @@
+{
+  "dominantColor": "#ffffff",
+  "colorPalette": [
+    "#ffffff"
+  ],
+  "colorMap": {
+    "#ffffff": 1
+  },
+  "averageColor": "#ffffff",
+  "brightnessRange": {
+    "min": 0.2,
+    "max": 0.8
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "crossbow-steel",
+  "gameId": "crossbow-steel",
+  "name": "crossbow-steel",
+  "type": "weapon",
+  "subtype": "weapon",
+  "isBaseModel": false,
+  "isVariant": true,
+  "parentBaseModel": "crossbow",
+  "materialPreset": {
+    "id": "steel",
+    "displayName": "Steel",
+    "category": "metal",
+    "tier": 2,
+    "color": "#C0C0C0",
+    "stylePrompt": "polished steel texture with silver-gray color, reflective surface, clean finish, low-poly RuneScape style"
+  },
+  "workflow": "Meshy AI Retexture",
+  "baseModelTaskId": "01982f1e-f9f1-7468-a61c-462e6486c3ed",
+  "retextureTaskId": "01982f21-b0c1-7471-ab4d-5b07738ed4cb",
+  "retextureStatus": "completed",
+  "modelPath": "crossbow-steel.glb",
+  "conceptArtPath": null,
+  "hasModel": true,
+  "hasConceptArt": true,
+  "generatedAt": "2025-07-21T22:37:26.333Z",
+  "completedAt": "2025-07-21T22:37:26.333Z",
+  "description": "Crossbow",
+  "isPlaceholder": false,
+  "gddCompliant": true
+}

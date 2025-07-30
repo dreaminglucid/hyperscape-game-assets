@@ -1,0 +1,32 @@
+{
+  "name": "legs-metal-mithril",
+  "gameId": "legs-metal-mithril",
+  "type": "armor",
+  "subtype": "legs",
+  "description": "Basic metal leg armor with clean geometry, neutral design, low-poly RuneScape 2007 style",
+  "detailedPrompt": "The leg armor model is designed with a low-poly aesthetic, perfectly capturing the 2007 RuneScape style. The armor is split into two main parts: the thigh guard and the shin guard. \n\nStarting from the top, the thigh guard is shaped like an inverted trapezoid with rounded edges, tapering slightly towards the top. It is designed to extend from mid-thigh to just above the knee, providing full coverage. \n\nThe knee cap is a separate circular piece that acts as a bridge between the thigh and shin guards. It protrudes slightly, adding a level of depth to the model.\n\nThe shin guard extends from below the knee to the ankle. It is shaped like a long rectangle with rounded edges, slightly bending forward at the knee and tapering towards the ankle to mimic the natural shape of a leg. \n\nBoth the thigh and shin guards are divided into two sections - front and back, connected on the sides by simple rectangular straps, suggesting that they can be fastened and unfastened.\n\nThe entire model is rendered in a neutral gray color, making it ideal for retexturing. Edges are well-defined, and faces are flat, maintaining a clean, simple geometry throughout. The model does not include any textures, ensuring it is suitable for applying different materials later.\n\nThe silhouette is iconic and easily recognizable as leg armor, despite the simplicity of the model. Overall, the design is practical, utilitarian, and evocative of the old school RuneS",
+  "generatedAt": "2025-07-20T04:09:43.920Z",
+  "completedAt": "2025-07-20T04:09:43.920Z",
+  "isBaseModel": false,
+  "materialVariants": [
+    "bronze",
+    "steel",
+    "mithril"
+  ],
+  "isPlaceholder": false,
+  "hasModel": true,
+  "hasConceptArt": true,
+  "modelPath": "/home/beast/hyperscape/packages/generation/gdd-assets/legs-metal-mithril/legs-metal-mithril.glb",
+  "conceptArtUrl": "./concept-art.png",
+  "gddCompliant": true,
+  "workflow": "GPT-4 → GPT-Image-1 → Meshy Image-to-3D → Meshy Retexture API",
+  "meshyTaskId": "019825b1-5aea-7b55-bd5e-a65ef28fd3e2",
+  "meshyStatus": "completed",
+  "isVariant": true,
+  "baseMaterial": "mithril",
+  "parentBaseModel": "legs-metal-base",
+  "materialStylePrompt": "mithril metal texture, blue-gray color with magical shimmer, fantasy metallic finish, RuneScape 2007 style",
+  "baseModelTaskId": "019825b1-5aea-7b55-bd5e-a65ef28fd3e2",
+  "retextureTaskId": "01982605-0a90-7b9d-af84-f35f9bff3fea",
+  "retextureStatus": "completed"
+}
